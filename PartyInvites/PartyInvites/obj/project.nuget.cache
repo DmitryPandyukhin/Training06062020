@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dWPU/f4aw3VeS8lES/g0aVkzAWoEjX5mVCZu3RZcfkS9yYOUSS9t73t5ryP0CRTJyWGUUptgZPOeXggbMozXZw==",
+  "dgSpecHash": "Vtx2Z8jwA2HwsP0z0/ld3cU7RR4N5/x6VAsWyT1LhHsgB5hUzGI3CNioyrFxJiMeNoFIkeTwSK1jJOglHVwZvg==",
   "success": true,
   "projectFilePath": "C:\\git\\Training06062020\\PartyInvites\\PartyInvites\\PartyInvites.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\d.pandyukhin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
