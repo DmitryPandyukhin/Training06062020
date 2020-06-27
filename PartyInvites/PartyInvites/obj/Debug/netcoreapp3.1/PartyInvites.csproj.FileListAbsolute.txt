@@ -36,3 +36,6 @@ C:\git\Training06062020\PartyInvites\PartyInvites\obj\Debug\netcoreapp3.1\PartyI
 C:\git\Training06062020\PartyInvites\PartyInvites\obj\Debug\netcoreapp3.1\PartyInvites.genruntimeconfig.cache
 C:\git\Training06062020\PartyInvites\PartyInvites\obj\Debug\netcoreapp3.1\PartyInvites.csproj.CopyComplete
 C:\git\Training06062020\PartyInvites\PartyInvites\obj\Debug\netcoreapp3.1\Razor\Views\Home\MyView.cshtml.g.cs
+C:\git\Training06062020\PartyInvites\PartyInvites\obj\Debug\netcoreapp3.1\Razor\Views\Home\RsvpForm.cshtml.g.cs
+C:\git\Training06062020\PartyInvites\PartyInvites\obj\Debug\netcoreapp3.1\Razor\Views\Home\Thanks.cshtml.g.cs
+C:\git\Training06062020\PartyInvites\PartyInvites\obj\Debug\netcoreapp3.1\Razor\Views\Home\ListResponses.cshtml.g.cs
